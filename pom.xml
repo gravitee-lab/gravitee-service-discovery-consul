@@ -29,13 +29,13 @@
 
     <groupId>io.gravitee.discovery</groupId>
     <artifactId>gravitee-service-discovery-consul</artifactId>
-    <version>1.1.1-SNAPSHOT</version>
+    <version>1.1.1</version>
 
     <name>Gravitee IO - Service Discovery - Consul.io</name>
 
     <properties>
-        <gravitee-common.version>1.14.0</gravitee-common.version>
-        <gravitee-service-discovery-api.version>1.1.1-SNAPSHOT</gravitee-service-discovery-api.version>
+        <gravitee-common.version>1.16.2</gravitee-common.version>
+        <gravitee-service-discovery-api.version>1.1.1</gravitee-service-discovery-api.version>
     </properties>
 
     <dependencies>
