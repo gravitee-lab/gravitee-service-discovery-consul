@@ -34,8 +34,8 @@
     <name>Gravitee IO - Service Discovery - Consul.io</name>
 
     <properties>
-        <gravitee-common.version>1.14.0</gravitee-common.version>
-        <gravitee-service-discovery-api.version>1.1.0</gravitee-service-discovery-api.version>
+        <gravitee-common.version>1.16.2</gravitee-common.version>
+        <gravitee-service-discovery-api.version>1.1.1</gravitee-service-discovery-api.version>
     </properties>
 
     <dependencies>
